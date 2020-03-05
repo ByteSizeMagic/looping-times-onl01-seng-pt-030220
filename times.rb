@@ -3,4 +3,4 @@ def using_times
 	  puts "Wingardium Leviosa"
 	end
 end
-usinf_times
+using_times
